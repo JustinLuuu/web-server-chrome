@@ -38,4 +38,4 @@ def go():
 
 import tornado.ioloop
 go()
-tornado.ioloop.IOLoop.instance().start()
+tornado.ioloop.IOLoop.instance().start();
